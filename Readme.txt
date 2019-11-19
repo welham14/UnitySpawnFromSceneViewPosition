@@ -1,4 +1,4 @@
-Basically emulates the "Play From Here" functionality of Unreal Engine. But for Unity!
+Basically emulates the "Play From Here" functionality of the Unreal Engine Editor. But for Unity!
 What the editor script does is when we hit Play, first we save the position of the SceneView camera.
 Then the GameDataScript gets that position and sets the player's position to it on Start.
 
