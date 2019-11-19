@@ -6,3 +6,4 @@ Effectively, wherever you leave the scene camera is where you will drop into the
 
 
 *** Just make sure you drop the UpdatePlayerStartPosition script into a "Editor" folder just inside your Assets folder. ***
+*** You can also toggle the public boolean if you want to turn off this feature at anytime. ***
